@@ -1,0 +1,25 @@
+html,body {
+   height: 100%;
+   position: relative;
+   margin:0 auto;
+}
+#tabs-stage .tabs-panels{
+   border: none;
+}
+
+#gallery a{
+   margin: 5px;
+}
+.fitydiv{
+   width: 45%;
+   padding-left:2.5%;
+   padding-right:2.5%;
+   float: left;
+   text-align: center;
+}
+.pagination-page-list{
+   display: none;
+}
+#sidebar.panel-body {
+    border: none;
+}
